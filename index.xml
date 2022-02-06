@@ -3,21 +3,14 @@
         <title>QIUzsq</title>
         <link>http://example.org/</link>
         <description>About uBlogger Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 26 Mar 2021 22:09:36 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 07 Feb 2022 00:45:02 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>一些方法</title>
-    <link>http://example.org/posts/%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95/</link>
-    <pubDate>Fri, 26 Mar 2021 22:09:36 &#43;0800</pubDate>
+    <title>盛秋0</title>
+    <link>http://example.org/posts/%E7%9B%9B%E7%A7%8B0/</link>
+    <pubDate>Mon, 07 Feb 2022 00:45:02 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>最后一篇</title>
-    <link>http://example.org/posts/%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87/</link>
-    <pubDate>Mon, 15 Mar 2021 23:34:23 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87/</guid>
+    <guid>http://example.org/posts/%E7%9B%9B%E7%A7%8B0/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>数学分支</title>
@@ -32,27 +25,6 @@
     <pubDate>Wed, 03 Mar 2021 23:45:20 &#43;0800</pubDate>
     <author>Author</author>
     <guid>http://example.org/posts/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Fortran</title>
-    <link>http://example.org/posts/fortran/</link>
-    <pubDate>Tue, 02 Mar 2021 22:31:10 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/fortran/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>PD整体平差与入射角求解</title>
-    <link>http://example.org/posts/pd%E6%95%B4%E4%BD%93%E5%B9%B3%E5%B7%AE%E4%B8%8E%E5%85%A5%E5%B0%84%E8%A7%92%E6%B1%82%E8%A7%A3/</link>
-    <pubDate>Mon, 01 Mar 2021 22:46:33 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/pd%E6%95%B4%E4%BD%93%E5%B9%B3%E5%B7%AE%E4%B8%8E%E5%85%A5%E5%B0%84%E8%A7%92%E6%B1%82%E8%A7%A3/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>迁移</title>
-    <link>http://example.org/posts/%E8%BF%81%E7%A7%BB/</link>
-    <pubDate>Sun, 14 Feb 2021 20:32:24 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/%E8%BF%81%E7%A7%BB/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
