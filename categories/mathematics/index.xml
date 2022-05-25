@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>mathematics - Category - QIUzsq</title>
+        <link>http://example.org/categories/mathematics/</link>
+        <description>mathematics - Category - QIUzsq</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 07 Feb 2022 22:21:45 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/mathematics/" rel="self" type="application/rss+xml" /><item>
+    <title>群论</title>
+    <link>http://example.org/posts/%E7%BE%A4%E8%AE%BA/</link>
+    <pubDate>Mon, 07 Feb 2022 22:21:45 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/%E7%BE%A4%E8%AE%BA/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

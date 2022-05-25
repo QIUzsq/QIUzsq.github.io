@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "D:/hugo_extended_0.80.0_Windows-64bit/GITEE/blog-ublogger",
+	"sourceRoot": "D:/hugo_extended_0.80.0_Windows-64bit/Gitee_Github/blog-ublogger",
 	"sources": [
 		"themes/uBlogger/assets/css/style.scss",
 		"themes/uBlogger/assets/css/_variables.scss",
